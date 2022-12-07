@@ -9,7 +9,7 @@
   "author": "ahmed habeeb",
   "license": "MIT",
   "devDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "dependencies": {
     "nodemon": "^1.19.4"
